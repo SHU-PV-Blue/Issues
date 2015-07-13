@@ -1,0 +1,17 @@
+# For Visual Studio Projects in C#
+
+# Compiled Object files
+obj/
+*.pdb
+
+# Executables
+bin/
+Debug/
+Release/
+*.exe
+*.dll
+!/**/lib/*.dll
+
+#Temporary database file
+*.sdf
+*.suo
