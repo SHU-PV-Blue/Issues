@@ -60,5 +60,6 @@
     $ git push <remote> <branch> #上传代码及快速合并
     $ git push <remote> :<branch/tag-name> #删除远程分支或标签
     $ git push --tags #上传所有标签
+    $ git push --all origin #上传所有分支和标签
 
 > 参考[https://help.gitcafe.com/manuals/git-commands/content](https://help.gitcafe.com/manuals/git-commands/content)
