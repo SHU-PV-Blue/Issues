@@ -8,6 +8,7 @@
 - [Teemo](https://gitcafe.com/Teemo)/王宇拓
 - [Mrwang](https://gitcafe.com/Mrwang)/王舒
 - [zhaokuo](https://gitcafe.com/zhaokuo)/方朝增
+- [Nicole_lele](https://gitcafe.com/Nicole_lele)/刘懿霆
 
 ## 任务概述（光伏电站优化设计软件20150724.pdf）
 
