@@ -5,7 +5,6 @@
 - [wolfogre](https://gitcafe.com/wolfogre)/宋建鑫
 - [dayang](https://gitcafe.com/dayang)/杨永华
 - [zhouwangyiteng](https://gitcafe.com/zhouwangyiteng)/周王翼腾
-- [Teemo](https://gitcafe.com/Teemo)/王宇拓
 - [Mrwang](https://gitcafe.com/Mrwang)/王舒
 - [zhaokuo](https://gitcafe.com/zhaokuo)/方朝增
 - [Nicole_lele](https://gitcafe.com/Nicole_lele)/刘懿霆
