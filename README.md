@@ -1,14 +1,12 @@
-# [查看工单](https://gitcafe.com/2015_SHU_PV_BlueTeam/Tickets/tickets)  
+# [查看工单](https://github.com/SHU-PV-Blue/Issues/issues)  
 ***
 
 ## 成员一览： 
-- [wolfogre](https://gitcafe.com/wolfogre)/宋建鑫
-- [dayang](https://gitcafe.com/dayang)/杨永华
-- [zhouwangyiteng](https://gitcafe.com/zhouwangyiteng)/周王翼腾
-- [Mrwang](https://gitcafe.com/Mrwang)/王舒
-- [zhaokuo](https://gitcafe.com/zhaokuo)/方朝增
-- [Nicole_lele](https://gitcafe.com/Nicole_lele)/刘懿霆
-- [guoxiny](https://gitcafe.com/guoxiny)/郭心怡
+- [wolfogre](https://github.com/wolfogre)/宋建鑫
+- [dayang](https://github.com/dayang)/杨永华
+- [zhouwangyiteng](https://github.com/zhouwangyiteng)/周王翼腾
+- [SnackMen](https://github.com/SnackMen)/王舒
+- [zhaokuohaha](https://github.com/zhaokuohaha)/方朝增
 
 ## 任务概述（光伏电站优化设计软件20150724.pdf）
 
