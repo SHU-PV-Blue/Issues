@@ -7,6 +7,8 @@
 - [zhouwangyiteng](https://github.com/zhouwangyiteng)/周王翼腾
 - [SnackMen](https://github.com/SnackMen)/王舒
 - [zhaokuohaha](https://github.com/zhaokuohaha)/方朝增
+----------------批次分界线-------------
+- [yahaa](https://github.com/yahaa)/袁子华
 
 ## 任务概述（光伏电站优化设计软件20150724.pdf）
 
