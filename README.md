@@ -14,16 +14,16 @@
 - [LeeChangCheng ](https://github.com/LeeChangCheng )/李长城 14
 - [wmt15121535](https://github.com/wmt15121535)/王孟桃 15
 - [1111cy](https://github.com/1111cy)/陈瑶 15
-- 吴霞
-- [YoGhurt111](https://github.com/YoGhurt111)余果
-- [chengsluo](https://github.com/chengsluo)罗成盛
-
+- 吴霞 14
+- [YoGhurt111](https://github.com/YoGhurt111)/余果 14
+- [chengsluo](https://github.com/chengsluo)/罗成盛 14
+ 
 
 ----------------预第三批-------------
 
 - 殷子良 16
-- aaa
+- aaa 15
 - 陶志国 16
 - 徐文 16
 - 彭昊华
-- bbb
+- bbb 16
